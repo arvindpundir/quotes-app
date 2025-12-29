@@ -2,8 +2,8 @@ import React from 'react'
 
 const QuoteApp = () => {
   return (
-    <div>
-      Quote App
+    <div className='Container'>
+      <div className='quotes-app'>Testing github </div>
     </div>
   )
 }
