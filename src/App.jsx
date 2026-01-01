@@ -1,9 +1,10 @@
-import QuoteApp from "./components/QuoteApp"
-import './components/QuoteApp.css'
+import QuotesApp from './Components/QuotesApp'
+import './Components/QuotesApp.css'
+
 const App = () => {
   return (
     <div>
-      <QuoteApp />
+      <QuotesApp />
     </div>
   )
 }
